@@ -122,5 +122,10 @@ body{
 
     .apresentacao__conteudo {
         width: auto;
+    
+    }
+
+    .imagem__principal {
+        width: 70%;
     }
 }
